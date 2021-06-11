@@ -1,5 +1,7 @@
 package hooks;
 
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -7,8 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+
 import pages.BasePage;
 
 import java.util.concurrent.TimeUnit;
@@ -17,7 +18,7 @@ import static pages.BasePage.getDriver;
 
 public class Hooks {
 
-    @BeforeMethod
+    @Before
     public void createDriver() {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
@@ -30,20 +31,20 @@ public class Hooks {
             WebElement webElement = new WebDriverWait(driver, 5)
                     .until(ExpectedConditions.visibilityOfElementLocated(By.id("loadingMessage")));
         } catch (Exception e) {
-
+            System.out.println("Element is not visibility");
         }
 
         try {
             Boolean webElement = new WebDriverWait(driver, 5)
                     .until(ExpectedConditions.invisibilityOfElementLocated(By.id("loadingMessage")));
         } catch (Exception e) {
-
+            System.out.println("Element is not visibility");
         }
 
         driver.switchTo().frame("framelive");
     }
 
-    @AfterMethod
+    @After
     public void closeDriver() {
         getDriver().quit();
     }

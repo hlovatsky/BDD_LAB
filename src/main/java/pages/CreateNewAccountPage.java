@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class CreateNewAccountPage extends BasePage {
     @FindBy(xpath = "//span[@class='custom-radio']//input[@value='1']")
-    private WebElement mrFieldWindow;
+    private WebElement mrWindow;
 
     @FindBy(xpath = "//input[@name='firstname']")
     private WebElement firstNameField;
@@ -42,8 +42,8 @@ public class CreateNewAccountPage extends BasePage {
         PageFactory.initElements(getDriver(), this);
     }
 
-    public void clickOnMrFieldWindow() {
-        mrFieldWindow.click();
+    public void clickOnMrWindow() {
+        mrWindow.click();
     }
 
     public void clickOnFirstNameField(String firstName) {
@@ -62,8 +62,8 @@ public class CreateNewAccountPage extends BasePage {
         passwordField.sendKeys(password);
     }
 
-    public void clickOnBirthdayField(String email) {
-        birthdayField.sendKeys(email);
+    public void clickOnBirthdayField(String birthday) {
+        birthdayField.sendKeys(birthday);
     }
 
     public void clickOnReceiveOffersWindow() {

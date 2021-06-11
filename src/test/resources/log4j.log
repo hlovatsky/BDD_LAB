@@ -1,0 +1,8 @@
+[INFO ] 2021-06-01 11:27:27 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-06-01 11:27:27 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-06-01 11:33:50 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-06-01 11:33:50 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-06-01 11:35:42 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-06-01 11:35:42 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-06-01 11:36:47 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-06-01 11:36:47 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
