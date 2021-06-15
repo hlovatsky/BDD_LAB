@@ -2,8 +2,8 @@ Feature: Create new account
 
   Scenario: Create account with valid data
     Given I am on the main page of site
-    When I click on Sign in button in the right top corner of the page
-    And I click on No account button in the bottom of the page
+    When I click on Sign in button in the right top corner of the page I will move on LogPage
+    And I click on No account button in the bottom of the page and I will move on the CreateNewAccountPage
     And I click on Mr window
     And I enter 'Peter' into First name field
     And I enter 'Johns' into Last name field
@@ -14,5 +14,5 @@ Feature: Create new account
     And I click on Customer data privacy window
     And I click on Sign up for our newsletter window
     And I click Agree field
-    And I click Save button
-    Then I see Peter Johns in the right top corner of the page
+    And I click Save button and I will move on NewAccountPage
+    Then I will see Peter Johns in the right top corner of the page

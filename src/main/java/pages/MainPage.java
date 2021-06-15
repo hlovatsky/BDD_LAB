@@ -16,8 +16,7 @@ public class MainPage extends BasePage {
     }
 
     public void clickOnSignInButton() {
+        log.info("I click on signInButton");
         signInButton.click();
     }
-
-
 }

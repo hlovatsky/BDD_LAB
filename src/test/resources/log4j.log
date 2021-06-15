@@ -6,3 +6,30 @@
 [INFO ] 2021-06-01 11:35:42 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
 [INFO ] 2021-06-01 11:36:47 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
 [INFO ] 2021-06-01 11:36:47 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-06-15 10:32:07 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 10:32:07 WebDriverManager:922 :logSeekRepo - message:Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[INFO ] 2021-06-15 10:32:08 Downloader:126 :downloadAndExtract - message:Downloading https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+[INFO ] 2021-06-15 10:32:09 Downloader:183 :extract - message:Extracting driver from compressed file chromedriver_win32.zip
+[INFO ] 2021-06-15 10:32:10 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 10:43:02 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 10:43:02 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 11:21:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 11:21:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 11:22:21 MainPage:19 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-15 11:22:25 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-15 11:24:46 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 11:24:46 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 11:25:18 MainPage:19 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-15 11:25:20 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-15 11:25:22 CreateNewAccountPage:48 :clickOnMrWindow - message:I click on mrWindow
+[INFO ] 2021-06-15 11:25:22 CreateNewAccountPage:53 :clickOnFirstNameField - message:I enter a first name in the firstNameField
+[INFO ] 2021-06-15 11:25:23 CreateNewAccountPage:58 :clickOnLastNameField - message:I enter a last name in the lastNameField
+[INFO ] 2021-06-15 11:25:23 CreateNewAccountPage:68 :clickPasswordField - message:I enter a password in the passwordField
+[INFO ] 2021-06-15 11:25:23 CreateNewAccountPage:63 :clickOnEmailField - message:I enter an email in the emailField
+[INFO ] 2021-06-15 11:25:23 CreateNewAccountPage:73 :clickOnBirthdayField - message:I enter a birthday date in the birthdayField
+[INFO ] 2021-06-15 11:25:23 CreateNewAccountPage:78 :clickOnReceiveOffersWindow - message:I click on the receiveOffersWindow
+[INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:83 :clickOnCustomerDataPrivacyWindow - message:I click on the customerDataPrivacyWindow
+[INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:88 :clickOnSignUpForOurNewsletterWindow - message:I click on the signUpForOurNewsletterWindow
+[INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
+[INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
+[INFO ] 2021-06-15 11:25:25 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
