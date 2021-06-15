@@ -33,3 +33,51 @@
 [INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
 [INFO ] 2021-06-15 11:25:24 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
 [INFO ] 2021-06-15 11:25:25 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
+[INFO ] 2021-06-15 14:46:07 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 14:46:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 14:47:09 MainPage:19 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-15 14:47:11 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-15 14:47:13 CreateNewAccountPage:48 :clickOnMrWindow - message:I click on mrWindow
+[INFO ] 2021-06-15 14:47:14 CreateNewAccountPage:53 :clickOnFirstNameField - message:I enter a first name in the firstNameField
+[INFO ] 2021-06-15 14:47:15 CreateNewAccountPage:58 :clickOnLastNameField - message:I enter a last name in the lastNameField
+[INFO ] 2021-06-15 14:47:15 CreateNewAccountPage:68 :clickPasswordField - message:I enter a password in the passwordField
+[INFO ] 2021-06-15 14:47:15 CreateNewAccountPage:63 :clickOnEmailField - message:I enter an email in the emailField
+[INFO ] 2021-06-15 14:47:15 CreateNewAccountPage:73 :clickOnBirthdayField - message:I enter a birthday date in the birthdayField
+[INFO ] 2021-06-15 14:47:15 CreateNewAccountPage:78 :clickOnReceiveOffersWindow - message:I click on the receiveOffersWindow
+[INFO ] 2021-06-15 14:47:16 CreateNewAccountPage:83 :clickOnCustomerDataPrivacyWindow - message:I click on the customerDataPrivacyWindow
+[INFO ] 2021-06-15 14:47:16 CreateNewAccountPage:88 :clickOnSignUpForOurNewsletterWindow - message:I click on the signUpForOurNewsletterWindow
+[INFO ] 2021-06-15 14:47:16 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
+[INFO ] 2021-06-15 14:47:16 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
+[INFO ] 2021-06-15 14:47:18 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
+[INFO ] 2021-06-15 14:49:57 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 14:49:57 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 14:50:38 MainPage:19 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-15 14:50:39 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-15 14:50:40 CreateNewAccountPage:48 :clickOnMrWindow - message:I click on mrWindow
+[INFO ] 2021-06-15 14:50:40 CreateNewAccountPage:53 :clickOnFirstNameField - message:I enter a first name in the firstNameField
+[INFO ] 2021-06-15 14:50:40 CreateNewAccountPage:58 :clickOnLastNameField - message:I enter a last name in the lastNameField
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:68 :clickPasswordField - message:I enter a password in the passwordField
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:63 :clickOnEmailField - message:I enter an email in the emailField
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:73 :clickOnBirthdayField - message:I enter a birthday date in the birthdayField
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:78 :clickOnReceiveOffersWindow - message:I click on the receiveOffersWindow
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:83 :clickOnCustomerDataPrivacyWindow - message:I click on the customerDataPrivacyWindow
+[INFO ] 2021-06-15 14:50:41 CreateNewAccountPage:88 :clickOnSignUpForOurNewsletterWindow - message:I click on the signUpForOurNewsletterWindow
+[INFO ] 2021-06-15 14:50:42 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
+[INFO ] 2021-06-15 14:50:42 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
+[INFO ] 2021-06-15 14:50:43 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
+[INFO ] 2021-06-15 14:53:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-15 14:53:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-15 14:54:26 MainPage:19 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-15 14:54:28 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-15 14:54:29 CreateNewAccountPage:48 :clickOnMrWindow - message:I click on mrWindow
+[INFO ] 2021-06-15 14:54:29 CreateNewAccountPage:53 :clickOnFirstNameField - message:I enter a first name in the firstNameField
+[INFO ] 2021-06-15 14:54:32 CreateNewAccountPage:58 :clickOnLastNameField - message:I enter a last name in the lastNameField
+[INFO ] 2021-06-15 14:54:32 CreateNewAccountPage:68 :clickPasswordField - message:I enter a password in the passwordField
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:63 :clickOnEmailField - message:I enter an email in the emailField
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:73 :clickOnBirthdayField - message:I enter a birthday date in the birthdayField
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:78 :clickOnReceiveOffersWindow - message:I click on the receiveOffersWindow
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:83 :clickOnCustomerDataPrivacyWindow - message:I click on the customerDataPrivacyWindow
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:88 :clickOnSignUpForOurNewsletterWindow - message:I click on the signUpForOurNewsletterWindow
+[INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
+[INFO ] 2021-06-15 14:54:34 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
+[INFO ] 2021-06-15 14:54:35 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
