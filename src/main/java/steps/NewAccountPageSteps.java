@@ -5,7 +5,7 @@ import pages.LogPage;
 import pages.MainPage;
 import pages.NewAccountPage;
 
-public class CreateNewAccountPageSteps {
+public class NewAccountPageSteps {
 
     MainPage mainPage = new MainPage();
     CreateNewAccountPage createNewAccountPage = new CreateNewAccountPage();
@@ -79,5 +79,6 @@ public class CreateNewAccountPageSteps {
 
     public void getTextFromNewAccountField() {
         newAccountPage.getTextFromNewAccountField();
+
     }
 }

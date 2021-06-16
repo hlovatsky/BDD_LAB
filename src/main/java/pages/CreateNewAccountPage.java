@@ -40,6 +40,9 @@ public class CreateNewAccountPage extends BasePage {
     @FindBy(xpath = "//button[contains(@class,'submit')]")
     private WebElement saveButton;
 
+    @FindBy(xpath = "//li[@class='alert alert-danger']")
+    private WebElement errorMessage;
+
     public CreateNewAccountPage() {
         PageFactory.initElements(getDriver(), this);
     }

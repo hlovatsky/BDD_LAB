@@ -81,3 +81,42 @@
 [INFO ] 2021-06-15 14:54:33 CreateNewAccountPage:93 :clickOnAgreeWindow - message:I click on the agreeButton
 [INFO ] 2021-06-15 14:54:34 CreateNewAccountPage:98 :clickOnSaveButton - message:I click on the saveButton
 [INFO ] 2021-06-15 14:54:35 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField
+[INFO ] 2021-06-16 10:53:53 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 10:53:53 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 10:58:20 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 10:58:20 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 12:57:18 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 12:57:18 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 12:58:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 12:58:24 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:39:03 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:39:03 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:40:13 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:40:13 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:45:20 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:45:20 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:48:20 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:48:21 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:51:02 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:51:02 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 15:59:22 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 15:59:22 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 16:00:19 MainPage:33 :clickOnLanguageDropdown - message:I click on Language dropdown
+[INFO ] 2021-06-16 16:00:22 MainPage:38 :getAllLanguagesInDropdownList - message:I get numbers of languages
+[INFO ] 2021-06-16 16:00:22 MainPage:43 :languagesInDropList - message:I get names of all languages
+[INFO ] 2021-06-16 16:00:25 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+[INFO ] 2021-06-16 16:00:25 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+[INFO ] 2021-06-16 16:00:58 MainPage:28 :clickOnSignInButton - message:I click on signInButton
+[INFO ] 2021-06-16 16:00:59 LogPage:18 :clickOnNoAccountButton - message:I click on noAccountLink
+[INFO ] 2021-06-16 16:01:00 CreateNewAccountPage:51 :clickOnMrWindow - message:I click on mrWindow
+[INFO ] 2021-06-16 16:01:01 CreateNewAccountPage:56 :clickOnFirstNameField - message:I enter a first name in the firstNameField
+[INFO ] 2021-06-16 16:01:02 CreateNewAccountPage:61 :clickOnLastNameField - message:I enter a last name in the lastNameField
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:71 :clickPasswordField - message:I enter a password in the passwordField
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:66 :clickOnEmailField - message:I enter an email in the emailField
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:76 :clickOnBirthdayField - message:I enter a birthday date in the birthdayField
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:81 :clickOnReceiveOffersWindow - message:I click on the receiveOffersWindow
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:86 :clickOnCustomerDataPrivacyWindow - message:I click on the customerDataPrivacyWindow
+[INFO ] 2021-06-16 16:01:03 CreateNewAccountPage:91 :clickOnSignUpForOurNewsletterWindow - message:I click on the signUpForOurNewsletterWindow
+[INFO ] 2021-06-16 16:01:04 CreateNewAccountPage:96 :clickOnAgreeWindow - message:I click on the agreeButton
+[INFO ] 2021-06-16 16:01:04 CreateNewAccountPage:101 :clickOnSaveButton - message:I click on the saveButton
+[INFO ] 2021-06-16 16:01:05 NewAccountPage:18 :getTextFromNewAccountField - message:I see text from newAccountField

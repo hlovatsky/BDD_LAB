@@ -1,4 +1,4 @@
-Feature: Create new account
+Feature: Registration with valid data
 
   Scenario: Create account with valid data
     Given I am on the main page of site
