@@ -1,7 +1,7 @@
 # BDD_LAB
 
 
-Test case #3 (Registration with valid data)
+1. Test case #3 (Registration with valid data)
 
 Go to the https://demo.prestashop.com/
 Click on 'Sign in' button at the right corner of the page
@@ -10,6 +10,8 @@ Fill the form with valid data
 Click on 'Save' button
 Check your name appear near cart button
 Test case #4 (Registration with invalid data)
+ 
+2. Test case #4 (Registration with invalid data)
 
 Go to the https://demo.prestashop.com/
 Click on 'Sign in' button at the right corner of the page
