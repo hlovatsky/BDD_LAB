@@ -11,6 +11,7 @@
 6. Check your name appear near cart button
 
 **Test case #4 (Registration with invalid data)**
+
 1.Go to the https://demo.prestashop.com/
 2.Click on 'Sign in' button at the right corner of the page
 3.Click on 'No account? Create one here' link
